@@ -48,8 +48,10 @@ public class StaticTable {
 	       System.out.println("------------------------------------------");
 	      
 
+	       
+	       
+	       
 	      driver.close();
-		
 
 	}
 
